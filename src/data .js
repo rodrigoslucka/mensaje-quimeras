@@ -478,6 +478,11 @@ const cursos = [
     nombre: "NUEVAS TECNOLOGÍAS DE LA INFORMACIÓN Y LEGAL TECH JUDICIAL",
     add: false,
   }
+  { 
+    id: 97, 
+    nombre: "MANEJO DEL SISTEMA INTEGRADO DE ADMINISTRACION FINANCIERA SIAF",
+    add: false,
+  }
 ];
 
 export default cursos;
